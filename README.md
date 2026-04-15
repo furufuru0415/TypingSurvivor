@@ -11,6 +11,8 @@
 
 ![demo](demo/play.gif)
 
+実際のプレイ映像、ゲームファイルは以下から閲覧可能　　
+https://drive.google.com/drive/folders/130ftrqSStTJrFDzCFZNREQg2qf2T8fI6?usp=drive_link
 ---
 
 ## ゲーム内容
