@@ -64,4 +64,4 @@ summary.pdf
 
 実際のプレイ映像、ゲームファイルは以下から閲覧可能　　　　
 https://drive.google.com/file/d/1_LUHmpic8EIGIIs8rweF28m1obNx2jGx/view?usp=drive_link  
-(binファイル内の.exeを起動することでプレイ可能)
+(zipをダウンロードして解凍後、binフォルダ内の.exeを起動することでプレイ可能)
